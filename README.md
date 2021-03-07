@@ -1,4 +1,4 @@
-# ECS-171-Course-Project
+# SnowNet: A Snow Depth Prediction Model
 
 ## Introduction
 
